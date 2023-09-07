@@ -1,3 +1,4 @@
+![logo](https://github.com/Kalpana-18/Kalpana-18/blob/main/Blue%20and%20White%20Professional%20Corporate%20Zoom%20Virtual%20Background.png)
 <h1 align="center">Hi 👋, I'm Kalpana Bharti</h1>
 <h3 align="center">"Code Explorer | Computer Science Student"</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
