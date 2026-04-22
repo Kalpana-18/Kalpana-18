@@ -10,7 +10,7 @@
 
 - 🤝 Looking to contribute to **impactful projects**
 
-- 📫 How to reach me **bhartikalpana1807@gmail.com**
+- 📫 How to reach me **kalpana230903@gmail.com**
 
 - ⚡ Fun fact **I speak English , dabble in German and code in C++**
 
